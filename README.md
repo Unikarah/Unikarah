@@ -9,8 +9,7 @@
 
 :tada: In addition, I am in an association called [Gotta Go Hack](https://www.linkedin.com/company/gotta-go-hack) that organizes Hackathons promoting innovation and entrepreneurship !
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unikarah&layout=compact&theme=radical)](https://github.com/unikarah/github-readme-stats)
-[![Unikarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=unikarah&show_icons=true&theme=radical))](https://github.com/unikarah/github-readme-stats)
+[![Unikarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=unikarah&show_icons=true&theme=radical&count_private=true))](https://github.com/unikarah/github-readme-stats)
 
 ## How to reach me ?
 You can contact me on [LinkedIn](https://www.linkedin.com/in/sarah-gutierez/) or via my mail address: sarah.gutierez@epita.fr
