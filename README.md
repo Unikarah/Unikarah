@@ -9,6 +9,8 @@
 
 :tada: In addition, I am in an association called [Gotta Go Hack](https://www.linkedin.com/company/gotta-go-hack) that organizes Hackathons promoting innovation and entrepreneurship !
 
+🎵 I am also in a DJ association called Unisson which organises events and parties for my school and externs. I really enjoy listening and mixing music !
+
 [![Unikarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=unikarah&show_icons=true&theme=radical&count_private=true))](https://github.com/unikarah/github-readme-stats)
 
 ## How to reach me ?
