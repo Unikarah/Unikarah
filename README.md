@@ -3,13 +3,9 @@
 ## Who am I ?
 🤖 Interested in developement, AI and robotics. I am motivated and determined to bring a new perspective to computer sciences!
 
-:brain: I am currently studying Computer Sciences at EPITA, and more specificaly Machine Learning and data sciences.
+:brain: I am currently working for @Trinov as a Machine Learning Enginner, I am a former EPITA 2023 SCIA student.
 
-🖥️ I am also part of a team of programming assitants called YAKA at EPITA. I teach C++/Java/JS to third-year students.
-
-:tada: In addition, I am in an association called [Gotta Go Hack](https://www.linkedin.com/company/gotta-go-hack) that organizes Hackathons promoting innovation and entrepreneurship !
-
-🎵 I am also in a DJ association called Unisson which organises events and parties for my school and externs. I really enjoy listening and mixing music !
+:tada: In addition, I am also in a DJ association called Unisson which organises events and parties around Techno music. I mix under the name Unikarah and you can find me on [soundcloud](https://soundcloud.com/unikarah) !
 
 [![Unikarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=unikarah&show_icons=true&theme=radical&count_private=true))](https://github.com/unikarah/github-readme-stats)
 
